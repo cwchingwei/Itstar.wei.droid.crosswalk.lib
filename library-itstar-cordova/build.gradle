@@ -47,5 +47,6 @@ android {
 
 
 dependencies {
+    compile 'com.github.cwchingwei:Itstar.wei.droid.crosswalk.lib:library-itstar-xwalkview'
 //    compile project(':lib_xwalk_23')
 }
