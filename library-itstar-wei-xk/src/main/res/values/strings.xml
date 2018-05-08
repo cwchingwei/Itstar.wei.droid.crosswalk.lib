@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">library-itstar-wei-xk</string>
+    <string name="dialog_thanks_you_support">非常感謝您對本產品的支持！</string>
+    <string name="dialog_register_success">註冊成功！</string>
+    <string name="dialog_plz_enter_account_password">請輸入帳號密碼！</string>
+    <string name="dialog_plz_enter_check_code">驗證碼有誤！</string>
+    <string name="dialog_login_fail">登入失敗，請重新登入。</string>
+    <string name="dialog_check_password">請確認密碼是否正確，或者是新密碼是否相同。</string>
+    <string name="dialog_your_goods_is_buy_success_to_continue_shop">您購買的商品已連絡店家，商品到貨時將立即通知您。</string>
+    <string name="dialog_no_promo_production">您目前沒有特價商品目錄，請開啟連線同步商品</string>
+    <string name="dialog_please_check_your_wifi">請確認是否連線</string>
+    <string name="dialog_please_check_connect_time_out">请检查您的互联网连接并重试。如果可能，请移动到具有更好移动接收的位置，或连接到Wi-Fi网络。</string>
+    <string name="dialog_please_check_connect_lose">请移动到具有更好移动接收的位置。</string>
+    <string name="dialog_please_no_connect">没有网路 或 系统错误\n请重新尝试</string>
+    <string name="dialog_please_enter_count">請輸入購買數量</string>
+    <string name="dialog_title_warray">警告!!</string>
+    <string name="dialog_title_error">錯誤!!</string>
+    <string name="dialog_already_enter_car">已加入購物車</string>
+    <string name="dialog_success">成功</string>
+    <string name="dialog_confirm">確認</string>
+    <string name="dialog_cancle">取消</string>
+    <string name="dialog_restart">重新尝试</string>
+    <string name="dialog_notification">通知</string>
+    <string name="dialog_progress_wait">等待中...</string>
+    <string name="dialog_not_search">未搜尋到結果</string>
+    <string name="dialog_system_error">伺服器發生問題，請聯絡相關人員。</string>
+    <string name="no_notify_message">無通知訊息</string>
+    <string name="no_factory_ok">了解</string>
+    <string name="launch_loading">加载中</string>
+    <string name="launch_finish">加载完成</string>
+    <string name="error_msg_client_timeout">CLIENT CONNECT TIME OUT</string>
+    <string name="error_msg_timeout_server">SERVER CONNECT TIME OUT</string>
+    <string name="error_msg_host_lookup">ERROR HOST LOOKUP</string>
+    <string name="error_msg_connect">ERROR CONNECT</string>
+</resources>
