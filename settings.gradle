@@ -1,1 +1,1 @@
-include ':app', ':library-itstar-wei-xk', ':lib_cordova', ':lib_xwalk_23'
+include ':app', ':lib_xwalk_23'

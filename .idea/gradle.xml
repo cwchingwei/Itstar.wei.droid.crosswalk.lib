@@ -9,9 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/lib_cordova" />
             <option value="$PROJECT_DIR$/lib_xwalk_23" />
-            <option value="$PROJECT_DIR$/library-itstar-wei-xk" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
