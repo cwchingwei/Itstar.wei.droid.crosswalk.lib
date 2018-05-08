@@ -1,0 +1,1 @@
+include ':app', ':library-itstar-wei-xk', ':lib_cordova', ':lib_xwalk_23'
